@@ -2,7 +2,7 @@
 
 Welcome to the **Robomates** repository! This repository contains a 3D model of the **Robomate V1**, a small gaming robot designed for interactive and strategic gameplay.
 
-![1](https://github.com/art-rbmates/robomates/blob/main/Robomate%20V1/robomates_v1_cad.png)
+![Robomate V1 CAD](https://github.com/art-rbmates/robomates/blob/main/Robomate%20V1/robomates_v1_cad.png)
 
 ## Additional parts for assembly
 
@@ -27,3 +27,5 @@ We are documenting every part of the robot and explaining how it works on our bl
 ## Join the Community
 
 Join our [Discord](https://discord.gg/uSednKAp4G) server to ask questions, share your thoughts, and discuss Robomate V1 with other enthusiasts!
+
+![Robomate V1 All](https://github.com/art-rbmates/robomates/blob/main/Robomate%20V1/robomates_v1_all.JPG)
