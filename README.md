@@ -1,6 +1,6 @@
 # Robomates
 
-Welcome to the **Robomates** repository! This repository contains a 3D model of the **Robomate V1**, a small gaming robot designed for interactive and strategic gameplay.
+Welcome to the **Robomates** repository! This repository contains a 3D model of the **Robomate V1**, a small gaming robot designed for interactive and strategic gameplay. We are working on turning the robot into a kit that you can assemble yourself. Stay tuned!
 
 ![Robomate V1 CAD](https://github.com/art-rbmates/robomates/blob/main/Robomate%20V1/robomates_v1_cad.png)
 
