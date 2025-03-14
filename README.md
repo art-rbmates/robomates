@@ -28,6 +28,6 @@ We are documenting every part of the robot and explaining how it works on our bl
 
 ## Join the Community
 
-Join our [Discord](https://discord.gg/uSednKAp4G) server to ask questions, share your thoughts, and discuss Robomate V1 with other enthusiasts!
+Join [r/robomates]([https://discord.gg/uSednKAp4G](https://www.reddit.com/r/robomates/)) and [Discord](https://discord.gg/uSednKAp4G) server to ask questions, share your thoughts, and discuss Robomate V1 with other enthusiasts!
 
 ![Robomate V1 All](https://github.com/art-rbmates/robomates/blob/main/Robomate%20V1/robomates_v1_all.JPG)
